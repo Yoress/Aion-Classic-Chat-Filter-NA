@@ -10,7 +10,8 @@ Extra Contributors:
   Harleykinz (https://github.com/harleykin),
   Vinny#1714 (Discord),
   Forthyn#8727 (Discord),
-  Tsukye#2063 (Discord)
+  Tsukye#2063 (Discord),
+  [Q]#5051 (Discord)
 
 Here's a preview of the filter functioning on IS-A:
 ![Preview](https://user-images.githubusercontent.com/59666778/123615428-25067080-d7ba-11eb-99ca-f987b735c5d0.png)
